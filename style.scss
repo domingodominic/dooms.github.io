@@ -31,23 +31,23 @@
     }
   }
 }
-.header {
-  position: absolute;
-  padding: 20px;
-  padding-top: 50px;
-  padding-left: 100px;
+// .header {
+//   position: absolute;
+//   padding: 20px;
+//   padding-top: 50px;
+//   padding-left: 100px;
 
-  display: flex;
-  width: 100%;
-  overflow: hidden;
-  top: 0px;
-  z-index: 1;
-  color: white;
-  font-family: "Barlow Condensed", sans-serif;
-  .logo {
-    border-radius: 100%;
-    margin-top: 25px;
-  }
+//   display: flex;
+//   width: 100%;
+//   overflow: hidden;
+//   top: 0px;
+//   z-index: 1;
+//   color: white;
+//   font-family: "Barlow Condensed", sans-serif;
+//   .logo {
+//     border-radius: 100%;
+//     margin-top: 25px;
+//   }
   .path {
     width: 35px;
     height: 35px;
